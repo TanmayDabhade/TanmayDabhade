@@ -21,6 +21,6 @@ I'm a passionate software developer with experience in building python applicati
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/TanmayDabhade/)
 - [tanmaydabhade.com](https://www.tanmaydabhade.com)
-
+- [dabhadet@msu.edu](dabhadet@msu.edu)
 
 

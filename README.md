@@ -3,10 +3,10 @@
 ## 🚀 About Me
 I'm a passionate software developer with experience in building web applications, mobile apps, and backend services. I enjoy solving complex problems and learning new technologies.
 
-- 🔭 I’m currently working on Financial Computing
-- 🌱 I’m currently learning Financial Analysis using python
-- 👯 I’m looking to collaborate on iOS applications, or python projects
-- 📫 How to reach me: tanmaydabhade129@gmail.com
+- 🔭 I’m currently working on Autosense - A tool that can be used in fault/anomaly detection for vehicles.
+- 🌱 I’m currently learning Machine Learning
+- 👯 I’m looking to collaborate on projects working in the domain of automation, using python, c++.
+- 📫 How to reach me: tanmaydabhade129@gmail.com / dabhadet@msu.edu
 - ⚡ Fun fact: I play the guitar!(bland but alright for a CS major)
 
 ## 🛠️ Languages and Tools

@@ -1,7 +1,7 @@
 # Hi there, I'm Tanmay Dabhade! 👋
 
 ## 🚀 About Me
-I'm a passionate software developer with experience in building web applications, mobile apps, and backend services. I enjoy solving complex problems and learning new technologies.
+I'm a passionate software developer with experience in building python applications, automation tools, web applications, machine learning models. I enjoy solving complex problems and learning new technologies.
 
 - 🔭 I’m currently working on Autosense - A tool that can be used in fault/anomaly detection for vehicles.
 - 🌱 I’m currently learning Machine Learning
@@ -11,9 +11,9 @@ I'm a passionate software developer with experience in building web applications
 
 ## 🛠️ Languages and Tools
 - **Languages:** JavaScript, Python, Java, C++
-- **Frameworks and Libraries:** React, Node.js, Express, Django
+- **Frameworks and Libraries:** React, Node.js, Express, Django, Flask, scikit-learn
 - **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools:** Git, Docker, Kubernetes, Jenkins
+- **Tools:** Git, Docker, Kubernetes, Vercel
 
 ## 📈 GitHub Stats
 ![Tanmay Dabhade's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanmayDabhade&show_icons=true&theme=radical)

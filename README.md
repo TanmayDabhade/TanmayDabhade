@@ -20,7 +20,7 @@ I'm a passionate software developer with experience in building python applicati
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/TanmayDabhade/)
-- [Personal Website/Blog](https://www.tanmaydabhade.com)
+- [tanmaydabhade.com](https://www.tanmaydabhade.com)
 
 
-Thanks for visiting my profile! Feel free to reach out if you'd like to connect or collaborate on a project.
+

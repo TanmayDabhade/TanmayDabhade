@@ -3,16 +3,16 @@
 ## 🚀 About Me
 I'm a passionate software developer with experience in building python applications, automation tools, web applications, machine learning models. I enjoy solving complex problems and learning new technologies.
 
-- 🔭 I’m currently working on Autosense - A tool that can be used in fault/anomaly detection for vehicles.
+- 🔭 I’m currently working on MarketPulse - An AI powered market report generator for newer traders and investors.
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on projects working in the domain of automation, using python, c++.
 - 📫 How to reach me: tanmaydabhade129@gmail.com / dabhadet@msu.edu
 - ⚡ Fun fact: I play the guitar!(bland but alright for a CS major)
 
 ## 🛠️ Languages and Tools
-- **Languages:** JavaScript, Python, Java, C++
+- **Languages:** JavaScript, TypeScript, Python, C++
 - **Frameworks and Libraries:** React, Node.js, Express, Django, Flask, scikit-learn
-- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Databases:** MySQL, Supabase, PostgreSQL
 - **Tools:** Git, Docker, Kubernetes, Vercel
 
 ## 📈 GitHub Stats
